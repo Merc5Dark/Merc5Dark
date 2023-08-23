@@ -1,4 +1,4 @@
-<h1>Hi 🐸 I am Kenneth Siyabonga Ncube (Missionary Soldier in Programming) </h1>
+<h1>Hi 🐸 I am Kenneth Siyabonga Ncube ( 🐱‍👤Outlaw Programmer🐱‍👤 ) </h1>
 <br />
 <h2>A passionate Software Engineer</h2>
 <br />
@@ -28,3 +28,5 @@
 <a href="https://twitter.com/binary_tree1" target="_blank">
         <img src="https://freebiehive.com/wp-content/uploads/2023/08/New-Twitter-Logo.jpg" title="Twitter" alt="Twitter" width="40" height="40"/>
 </a>
+
+
