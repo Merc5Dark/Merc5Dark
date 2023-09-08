@@ -2,7 +2,7 @@
 <br />
 <h2>A passionate Software Engineer</h2>
 <br />
-<div style="align-items: center">
+<div style="align-items: center;">
     <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
 </div>
 <br />
