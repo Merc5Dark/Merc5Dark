@@ -2,7 +2,9 @@
 <br />
 <h2>A passionate Software Engineer</h2>
 <br />
-<img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
+<div style="justify-content: center">
+    <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
+</div>
 <br />
 <h3>Unbound by limitations, I forge ahead with unwavering determination. Rules may bend, but my code remains unbreakable. In this realm of ones and zeros, I am the maestro, orchestrating a symphony where innovation reigns supreme. No bounds can contain me, for my code knows no barriers, and nothing can hold back the unbridled power I unleash. We don't merely follow rules; we sculpt a reality where the code not only works but thrives.</h3>
 <br />
