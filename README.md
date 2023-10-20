@@ -1,4 +1,4 @@
-<h1>Hi 🐸 I am Kenneth Siyabonga Ncube ( 🐱‍👤Outlaw Programmer🐱‍👤 ) </h1>
+<h1>Hi 🐸 I am Siyabonga ( 🐱‍👤Outlaw Programmer🐱‍👤 ) </h1>
 <br />
 <h2>A passionate Software Engineer</h2>
 <br />
