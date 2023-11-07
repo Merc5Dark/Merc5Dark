@@ -2,7 +2,9 @@
 <br />
 <h2>A passionate Software Engineer</h2>
 <br />
-<div style="text-align: center; display:flex; flex-direction:row;">
+
+<br />
+<div style="text-align: center; align-items: center; justify-content: center">
     <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
 </div>
 <br />
