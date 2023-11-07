@@ -4,6 +4,7 @@
 <br />
 <div style="text-align: center;">
     <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe65611-e869-4f9f-9022-506204bc2b1f/dfiih1h-f5ef2772-3c42-402c-9bba-192e12012def.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTY1NjExLWU4NjktNGY5Zi05MDIyLTUwNjIwNGJjMmIxZlwvZGZpaWgxaC1mNWVmMjc3Mi0zYzQyLTQwMmMtOWJiYS0xOTJlMTIwMTJkZWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6RnLYJmyBMk8Ar01lcOa3RNdtqLIyCgRAlpUOhNtMvY />
 </div>
 <br />
 <h3>Unbound by limitations, I forge ahead with unwavering determination. Rules may bend, but my code remains unbreakable. In this realm of ones and zeros, I am the maestro, orchestrating a symphony where innovation reigns supreme. No bounds can contain me, for my code knows no barriers, and nothing can hold back the unbridled power I unleash. We don't merely follow rules; we sculpt a reality where the code not only works but thrives.</h3>
