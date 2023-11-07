@@ -1,6 +1,6 @@
 <h1>Hi 🐸 I am Siyabonga ( 🐱‍👤Outlaw Programmer🐱‍👤 ) </h1>
 <br />
-<h2>A passionate Software Engineer</h2>
+<h2>Software Engineer | Back-End Developer | Ethical Hacker | </h2>
 <br />
 
 <br />
