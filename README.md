@@ -10,8 +10,8 @@
 <br />
 <h3 align="center">Unbound by limitations, I forge ahead with unwavering determination. Rules may bend, but my code remains unbreakable. In this realm of ones and zeros, I am the maestro, orchestrating a symphony where innovation reigns supreme. No bounds can contain me, for my code knows no barriers, and nothing can hold back the unbridled power I unleash. We don't merely follow rules; we sculpt a reality where the code not only works but thrives.</h3>
 <br />
-<h2 align="center">Skills</h2>
-<div align="center">
+<h2>Skills</h2>
+<div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merc5Dark&layout=compact)](https://github.com/Merc5Dark)
 
-<h2 align="center">Reach out to me</h2>
+<h2>Reach out to me</h2>
 <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
