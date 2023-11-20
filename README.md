@@ -1,11 +1,10 @@
-<p align="center">
 <h1>Hi 🐸 I am Siyabonga ( 🐱‍👤Outlaw Programmer🐱‍👤 ) </h1>
 <br />
 <h2>Software Engineer | Back-End Developer | </h2>
 <br />
 
 <br />
-<div style="text-align: center; align-items: center; justify-content: center">
+<div align="center">
     <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
 </div>
 <br />
@@ -43,5 +42,4 @@
 <a href="https://twitter.com/binary_tree1" target="_blank">
         <img src="https://freebiehive.com/wp-content/uploads/2023/08/New-Twitter-Logo.jpg" title="Twitter" alt="Twitter" width="40" height="40"/>
 </a>
-</p>
 
