@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🐸 I am Siyabonga ( Outlaw Programmer ) </h1>
 <br />
-<h2 align="center">Software Engineer | Back-End Developer | E - H </h2>
+<h2 align="center">Software Engineer | Full Stack Developer | E - H </h2>
 <br />
 
 <br />
